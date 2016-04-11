@@ -5,6 +5,10 @@ Our Telegram Chat: [Developers from Kyrgyzstan](https://telegram.me/devkg)
 
 Notifications about events: [DevKG Events](https://telegram.me/geekevents)
 
+### Future meetups
+
+- Оценка проектов [YouTube Live stream](https://www.youtube.com/watch?v=_t40GjXBGHw)
+
 ### Past meetups
 
 - Freelance [YouTube Video](https://www.youtube.com/watch?v=RKwKmFj76nk)
